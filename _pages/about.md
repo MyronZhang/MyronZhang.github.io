@@ -17,42 +17,56 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi there! I am a PhD student studying at the School of Engineering, The University of British Columbia. I am currently working as a Graduate Research Assistant and UBC Sustainability Scholar. My research mainly focuses on Building Energy, Machine Learning, Building Control, Renewable Energy, and Energy Retrofits. I enjoy playing basketball and watching NBA games and Athletics during my leisure time. I am a big fan of the best basketball player in the world, Black Mamba-Kobe Bryant.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes building energy efficiency, energy retrofits, occupant-centric building management, and grid-interactive buildings. I have published 7 papers at top Civil Engineering journals and conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: I join the City of Vernon as a building energy researcher working on enrgy retrofit planning for the city.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+Journals
+H.N. Zhang, K. Hewage, T. Prabatha, and R. Sadiq (2021) Life cycle thinking-based Energy Retrofit Evaluation Framework for Canadian Residences: A Pareto Optimization Approach. Building and Environment. https://doi.org/10.1016/j.buildenv.2021.108115.
+H.N. Zhang, K. Hewage, H. Karunathilake, H.B. Feng and R. Sadiq (2021) Research on Policy Strategies for Implementing Energy Retrofits in the Residential Buildings. Journal of Building Engineering. https://doi.org/10.1016/j.jobe.2021.103161.
+H.N. Zhang, H.B. Feng, K. Hewage, and M. Arashpour (2022) Artificial neural network for predicting building energy performance: A surrogate energy retrofit decision support framework. Journal of Buildings. https://doi.org/10.3390/buildings12060829.
+H.B. Feng, J. Zhao, H.N. Zhang, S.Y. Zhu, and D.Z. Li (2022) Uncertainties in Whole-building Life Cycle Assessment: A Systematic Review. Journal of Building Engineering. https://doi.org/10.1016/j.jobe.2022.104191.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Conferences
+H. Zhang, K. Hewage, S. Hussain, and R. Sadiq (2023). A data-driven approach to predict building energy performance for identifying optimal energy retrofit scenarios. In Canadian Society of Civil Engineering Annual Conference, 2023, Moncton, Canada.
+H. Zhang (2018) Virtual trial assembly of high-rise air corridor using BIM and terrestrial laser scanning. 18th International Conference on Construction Applications of Virtual Reality, 2018, Auckland, New Zealand.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Preprints
+H.N. Zhang (2022) Leveraging policy instruments and financial incentives to reduce embodied carbon in energy retrofits. https://doi.org/10.48550/arXiv.2304.03403
+H.N. Zhang (2023) Life cycle costing analysis of deep energy retrofits of a mid-rise building to understand the impact of energy conservation measures. https://arxiv.org/abs/2304.00456
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+Thesis
+H.N. Zhang (2021) Energy retrofit evaluation in residential construction : a life cycle thinking approach. The University of British Columbia. https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0401894
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.5* UBC Graduate Research Scholarship
+- *2023.8* UBC Graduate Research Scholarship
+- *2022.8* UBC Graduate Research Scholarship
+- *2021.8* UBC Graduate Research Scholarship
+- *2020.8* UBC Graduate Research Scholarship
+- *2019.6* Outstanding Undergraduate Thesis
+- *2018.6* Mao Yisheng Science and Technology Award
+- *2017.10* China National Encouragement Scholarship
+- *2016.10* China National College Student Scholarship
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📖 Education
+- *2022.01 - 2024.04 (now)*, PhD, Civil Engineering, The University of British Columbia 
+
+# 💬 Academic Service
+- Building and Environment, Elsevier, Reviewer
+- Journal of Building Engineering, Elsevier, Reviewer
+- Scientific Reports, Springer Nature, Reviewer
+- 2023 ASCE International Conference on Computing in Civil Engineering, ASCE, Reviewer
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.05 - 2024.09*, City of Vernon, Vernon, Canada
+- *2023.05 - 2023.09*, Musqueam Indian Band, Vancouver, Canada
+- *2022.10 - 2023.04*, Cit of Richmond, Richmond, Canada
+- *2022.05 - 2022.09*, Community Energy Association, Vancouver, Canada
