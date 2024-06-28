@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am a PhD student studying at the School of Engineering, The University of British Columbia. I am currently working as a Graduate Research Assistant and UBC Sustainability Scholar. My research mainly focuses on Building Energy, Machine Learning, Building Control, Renewable Energy, and Energy Retrofits. I enjoy playing basketball and watching NBA games and Athletics during my leisure time. I am a big fan of the best basketball player in the world, Black Mamba-Kobe Bryant.
+Hi there! I am a PhD student studying at the School of Engineering, The University of British Columbia. I am currently working as a Graduate Research Assistant and UBC Sustainability Scholar. My research interest includes building energy efficiency, energy retrofits, occupant-centric building management, and grid-interactive buildings. I have published 7 papers at top Civil Engineering journals and conferences. I enjoy playing basketball and watching NBA games and Athletics during my leisure time. I am a big fan of the best basketball player in the world, Black Mamba-Kobe Bryant.
 
-My research interest includes building energy efficiency, energy retrofits, occupant-centric building management, and grid-interactive buildings. I have published 7 papers at top Civil Engineering journals and conferences.
 
 
 # 🔥 News
