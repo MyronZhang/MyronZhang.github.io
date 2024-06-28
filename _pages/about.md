@@ -51,7 +51,7 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 - *2016.10* China National College Student Scholarship
 
 
-# 📖 Education
+# 📖 Educations
 - *2022.01 - 2024.04 (now)*, PhD, Civil Engineering, The University of British Columbia
 
 # 💬 Academic Service
