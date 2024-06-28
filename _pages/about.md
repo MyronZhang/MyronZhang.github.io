@@ -37,8 +37,7 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 - H.N. Zhang (2022) Leveraging policy instruments and financial incentives to reduce embodied carbon in energy retrofits. https://doi.org/10.48550/arXiv.2304.03403
 - H.N. Zhang (2023) Life cycle costing analysis of deep energy retrofits of a mid-rise building to understand the impact of energy conservation measures. https://arxiv.org/abs/2304.00456
 
-Thesis
-H.N. Zhang (2021) Energy retrofit evaluation in residential construction : a life cycle thinking approach. The University of British Columbia. https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0401894
+- Thesis: H.N. Zhang (2021) Energy retrofit evaluation in residential construction : a life cycle thinking approach. The University of British Columbia. https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0401894
 
 # 🎖 Honors and Awards
 - *2024.5* UBC Graduate Research Scholarship
