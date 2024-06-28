@@ -26,7 +26,7 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 
 # 📝 Publications 
 
-Journals
+- Journals
 H.N. Zhang, K. Hewage, T. Prabatha, and R. Sadiq (2021) Life cycle thinking-based Energy Retrofit Evaluation Framework for Canadian Residences: A Pareto Optimization Approach. Building and Environment. https://doi.org/10.1016/j.buildenv.2021.108115.
 H.N. Zhang, K. Hewage, H. Karunathilake, H.B. Feng and R. Sadiq (2021) Research on Policy Strategies for Implementing Energy Retrofits in the Residential Buildings. Journal of Building Engineering. https://doi.org/10.1016/j.jobe.2021.103161.
 H.N. Zhang, H.B. Feng, K. Hewage, and M. Arashpour (2022) Artificial neural network for predicting building energy performance: A surrogate energy retrofit decision support framework. Journal of Buildings. https://doi.org/10.3390/buildings12060829.
