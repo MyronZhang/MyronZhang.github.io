@@ -58,6 +58,7 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 - Building and Environment, Elsevier, Reviewer
 - Journal of Building Engineering, Elsevier, Reviewer
 - Scientific Reports, Springer Nature, Reviewer
+- Energy Informatics, Springer Nature, Reviewer
 - 2023 ASCE International Conference on Computing in Civil Engineering, ASCE, Reviewer
 
 # 💻 Internships
