@@ -52,7 +52,7 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 
 
 # 📖 Educations
-- *2022.01 - 2024.04 (now)*, PhD, Civil Engineering, The University of British Columbia
+- *2022.01 - 2024.07 (now)*, PhD, Civil Engineering, The University of British Columbia
 
 # 💬 Academic Service
 - Building and Environment, Elsevier, Reviewer
