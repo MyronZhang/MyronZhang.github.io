@@ -22,22 +22,23 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 
 
 # 🔥 News
-- *2024.05*: I join the City of Vernon as a building energy researcher working on enrgy retrofit planning for the city.
+- *2024.05*: I joined the City of Vernon as a building energy researcher working on enrgy retrofit planning for the city.
 
 # 📝 Publications 
 
-- H.N. Zhang, K. Hewage, T. Prabatha, and R. Sadiq (2021) Life cycle thinking-based Energy Retrofit Evaluation Framework for Canadian Residences: A Pareto Optimization Approach. Building and Environment. https://doi.org/10.1016/j.buildenv.2021.108115.
-- H.N. Zhang, K. Hewage, H. Karunathilake, H.B. Feng and R. Sadiq (2021) Research on Policy Strategies for Implementing Energy Retrofits in the Residential Buildings. Journal of Building Engineering. https://doi.org/10.1016/j.jobe.2021.103161.
-- H.N. Zhang, H.B. Feng, K. Hewage, and M. Arashpour (2022) Artificial neural network for predicting building energy performance: A surrogate energy retrofit decision support framework. Journal of Buildings. https://doi.org/10.3390/buildings12060829.
-- H.B. Feng, J. Zhao, H.N. Zhang, S.Y. Zhu, and D.Z. Li (2022) Uncertainties in Whole-building Life Cycle Assessment: A Systematic Review. Journal of Building Engineering. https://doi.org/10.1016/j.jobe.2022.104191.
+- H. Zhang, K. Hewage, H. Karunathilake, Q. Sun, and R. Sadiq (2024) Retrofitting for Humans: An Occupant-centric Energy Retrofit Planning Framework for Residential Buildings. Submitted to Building and Environment. 
+- H. Zhang, K. Hewage, T. Prabatha, and R. Sadiq (2021) Life cycle thinking-based Energy Retrofit Evaluation Framework for Canadian Residences: A Pareto Optimization Approach. Building and Environment. https://doi.org/10.1016/j.buildenv.2021.108115.
+- H. Zhang, K. Hewage, H. Karunathilake, H.B. Feng and R. Sadiq (2021) Research on Policy Strategies for Implementing Energy Retrofits in the Residential Buildings. Journal of Building Engineering. https://doi.org/10.1016/j.jobe.2021.103161.
+- H. Zhang, H.B. Feng, K. Hewage, and M. Arashpour (2022) Artificial neural network for predicting building energy performance: A surrogate energy retrofit decision support framework. Journal of Buildings. https://doi.org/10.3390/buildings12060829.
+- H. Feng, J. Zhao, H.N. Zhang, S.Y. Zhu, and D.Z. Li (2022) Uncertainties in Whole-building Life Cycle Assessment: A Systematic Review. Journal of Building Engineering. https://doi.org/10.1016/j.jobe.2022.104191.
 
 - H. Zhang, K. Hewage, S. Hussain, and R. Sadiq (2023). A data-driven approach to predict building energy performance for identifying optimal energy retrofit scenarios. In Canadian Society of Civil Engineering Annual Conference, 2023, Moncton, Canada.
 - H. Zhang (2018) Virtual trial assembly of high-rise air corridor using BIM and terrestrial laser scanning. 18th International Conference on Construction Applications of Virtual Reality, 2018, Auckland, New Zealand.
 
-- H.N. Zhang (2022) Leveraging policy instruments and financial incentives to reduce embodied carbon in energy retrofits. https://doi.org/10.48550/arXiv.2304.03403
-- H.N. Zhang (2023) Life cycle costing analysis of deep energy retrofits of a mid-rise building to understand the impact of energy conservation measures. https://arxiv.org/abs/2304.00456
+- H. Zhang (2022) Leveraging policy instruments and financial incentives to reduce embodied carbon in energy retrofits. https://doi.org/10.48550/arXiv.2304.03403
+- H. Zhang (2023) Life cycle costing analysis of deep energy retrofits of a mid-rise building to understand the impact of energy conservation measures. https://arxiv.org/abs/2304.00456
 
-- Thesis: H.N. Zhang (2021) Energy retrofit evaluation in residential construction : a life cycle thinking approach. The University of British Columbia. https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0401894
+- Thesis: H. Zhang (2021) Energy retrofit evaluation in residential construction : a life cycle thinking approach. The University of British Columbia. https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0401894
 
 # 🎖 Honors and Awards
 - *2024.5* UBC Graduate Research Scholarship
