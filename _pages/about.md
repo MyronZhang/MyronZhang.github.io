@@ -26,7 +26,8 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 
 # 📝 Publications 
 
-- H. Zhang, K. Hewage, H. Karunathilake, Q. Sun, and R. Sadiq (2024) Retrofitting for Humans: An Occupant-centric Energy Retrofit Planning Framework for Residential Buildings. Submitted to Building and Environment.
+- H. Zhang, K. Hewage, H. Karunathilake, Q. Sun, and R. Sadiq (2024) Retrofitting for humans: An occupant-centric energy retrofit planning framework for residential buildings. Submitted to Building and Environment.
+- Q. Sun, H. Chen, H. Zhang, H. Rashid Mian, K. Hewage, and Rehan Sadiq (2024) Clean energy alternative technologies in thermal power plants:  Disruptive technology diffusion based on complex network evolutionary game. Submitted to Journal of Environmental Management.
 - H. Zhang, K. Hewage, S. Hussain, and R. Sadiq (2023). A data-driven approach to predict building energy performance for identifying optimal energy retrofit scenarios. Canadian Society of Civil Engineering Annual Conference, 2023, Moncton, Canada.
 - H. Zhang (2023) Leveraging policy instruments and financial incentives to reduce embodied carbon in energy retrofits. https://doi.org/10.48550/arXiv.2304.03403
 - H. Zhang (2023) Life cycle costing analysis of deep energy retrofits of a mid-rise building to understand the impact of energy conservation measures. https://arxiv.org/abs/2304.00456
