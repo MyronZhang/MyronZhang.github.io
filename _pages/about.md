@@ -23,8 +23,11 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 
 # 🔥 News
 - *2024.07*: The Home Energy Zero team has completed energy retrofits for three houses, and one of them has achieved net-zero energy use!
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Vernon visit.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HomeEnergyZero Team</div><img src='images/Vernon visit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+</div>
+</div>
+
 - *2024.05*: I joined the City of Vernon as a building energy researcher working on the city-level energy retrofit planning project.
 
 # 📝 Publications 
