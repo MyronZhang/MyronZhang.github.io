@@ -22,9 +22,9 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 
 
 # 🔥 News
-- *2024.07*: The Home Energy Zero team has completed energy retrofits for three houses, and one of them has achieved net-zero energy use!
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HomeEnergyZero Team</div><img src='images/Vernon visit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+- *2024.07*: The Home Energy Zero team has completed energy retrofits for three houses, and one of them has achieved the net-zero energy use target!
 </div>
 </div>
 
