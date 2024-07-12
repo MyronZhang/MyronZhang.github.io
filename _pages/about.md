@@ -70,5 +70,5 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 # 💻 Internships
 - *2024.05 - 2024.09*, City of Vernon, Vernon, Canada
 - *2023.05 - 2023.09*, Musqueam Indian Band, Vancouver, Canada
-- *2022.10 - 2023.04*, Cit of Richmond, Richmond, Canada
+- *2022.10 - 2023.04*, City of Richmond, Richmond, Canada
 - *2022.05 - 2022.09*, Community Energy Association, Vancouver, Canada
