@@ -65,7 +65,8 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 - Journal of Building Engineering, Elsevier, Reviewer
 - Scientific Reports, Springer Nature, Reviewer
 - Energy Informatics, Springer Nature, Reviewer
-- 2023 ASCE International Conference on Computing in Civil Engineering, ASCE, Reviewer
+- Discover Cities, Springer Nature, Reviewer
+- ASCE International Conference on Computing in Civil Engineering, ASCE, Reviewer
 
 # 💻 Internships
 - *2024.05 - 2024.09*, City of Vernon, Vernon, Canada
