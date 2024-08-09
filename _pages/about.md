@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am a PhD student studying at the School of Engineering, The University of British Columbia. I am currently working as a Graduate Research Assistant and UBC Sustainability Scholar. My research interest includes building energy efficiency, energy retrofits, occupant-centric building management, and grid-interactive buildings. I have published 7 papers at top Civil Engineering journals and conferences. I enjoy playing basketball and watching NBA games and Athletics during my leisure time. I am a big fan of the best basketball player in the world, Black Mamba-Kobe Bryant.
+Hi there! I am a PhD student studying at the School of Engineering, The University of British Columbia. I am currently working as a Graduate Research Assistant and UBC Sustainability Scholar. My research interest includes building energy efficiency, energy retrofits, occupant-centric building management, and grid-interactive buildings. I have published 7 papers at top Built Environment journals and conferences. I enjoy playing basketball and watching NBA games and Athletics during my leisure time. I am a big fan of the best basketball player in the world, Black Mamba-Kobe Bryant.
 
 
 
@@ -35,6 +35,7 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 - H. Zhang, K. Hewage, H. Karunathilake, Q. Sun, and R. Sadiq (2024) Retrofitting for humans: An occupant-centric energy retrofit planning framework for residential buildings. Submitted to Building and Environment.
 - Q. Sun, H. Chen, H. Zhang, H. Rashid Mian, K. Hewage, and R. Sadiq (2024) Clean energy alternative technologies in thermal power plants:  Disruptive technology diffusion based on complex network evolutionary game. Submitted to Journal of Environmental Management.
 - H. Zhang, K. Hewage, S. Hussain, and R. Sadiq (2023). A data-driven approach to predict building energy performance for identifying optimal energy retrofit scenarios. Canadian Society of Civil Engineering Annual Conference, 2023, Moncton, Canada.
+- H.Zhang and E.Haghi (2023). Life cycle cost analysis of energy-efficient upgrades for new residential buildings in urban Indigenous communities. UBC Sustainability. https://sustain.ubc.ca/about/resources/lifecycle-cost-analysis-new-single-family-building-construction-and-electrification
 - H. Zhang (2023) Leveraging policy instruments and financial incentives to reduce embodied carbon in energy retrofits. https://doi.org/10.48550/arXiv.2304.03403
 - H. Zhang (2023) Life cycle costing analysis of deep energy retrofits of a mid-rise building to understand the impact of energy conservation measures. https://arxiv.org/abs/2304.00456
 - H. Zhang, H. Feng, K. Hewage, and M. Arashpour (2022) Artificial neural network for predicting building energy performance: A surrogate energy retrofit decision support framework. Journal of Buildings. https://doi.org/10.3390/buildings12060829.
