@@ -57,8 +57,9 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 - *2016.10* China National College Student Scholarship
 
 
-# 📖 Educations
-- *2022.01 - 2024.07 (now)*, PhD, Civil Engineering, The University of British Columbia
+# 📖 Presentations
+- *2024.8*, Developing a Building Energy Retrofit Toolkit for Homeowners, Vernon, Canada
+- *2023.5*, A Data-Driven Approach To Predict Building Energy Performance For Identifying Optimal Energy Retrofit Scenarios, Moncton, Canada
 
 # 💬 Academic Service
 - Building and Environment, Elsevier, Reviewer
