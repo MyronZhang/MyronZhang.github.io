@@ -52,8 +52,7 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 - *2021.8* UBC Graduate Research Scholarship
 - *2020.8* UBC Graduate Research Scholarship
 - *2019.6* Outstanding Undergraduate Thesis
-- *2018.6* Mao Yisheng Science and Technology Award
-- *2017.10* China National Encouragement Scholarship
+- *2017.10* China National College Student Scholarship
 - *2016.10* China National College Student Scholarship
 
 
