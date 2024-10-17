@@ -22,9 +22,10 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 
 
 # 🔥 News
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HomeEnergyZero Team</div><img src='images/Vernon visit.jpg' alt="sym" width="100%"></div></div>
+- *2024.10*: The HomeZero team completed energy retrofits for 11 pilot homes. We are currently working on developing an LLM-based energy retrofit decision-suooporting tool.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HomeZero Team</div><img src='images/Vernon visit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *2024.07*: The Home Energy Zero team has completed energy retrofits for three houses, and one of them has achieved the net-zero energy use target!
+- *2024.07*: The HomeZero team has completed energy retrofits for three houses, and one of them has achieved the net-zero energy use target!
 </div>
 </div>
 
@@ -66,8 +67,9 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 - Journal of Building Engineering, Elsevier, Reviewer
 - Scientific Reports, Springer Nature, Reviewer
 - Energy Informatics, Springer Nature, Reviewer
-- Discover Cities, Springer Nature, Reviewer
+- Discover Cities, Springer Nature, Reviewer 
 - ASCE International Conference on Computing in Civil Engineering, ASCE, Reviewer
+- Journal of Infrastructure, Policy and Development, EnPress, Reviewer
 
 # 💻 Internships
 - *2024.05 - 2024.09*, City of Vernon, Vernon, Canada
