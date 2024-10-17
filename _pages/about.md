@@ -29,7 +29,7 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 </div>
 </div>
 
-- *2024.05*: I joined the City of Vernon as a building energy researcher working on the city-level energy retrofit planning project.
+- *2024.05*: I have joined the City of Vernon as a building energy researcher working on the city-level energy retrofit planning project.
 
 # 📝 Publications 
 
