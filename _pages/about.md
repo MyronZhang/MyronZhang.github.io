@@ -22,7 +22,7 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 
 
 # 🔥 News
-- *2024.10*: The HomeZero team has completed energy retrofits for 11 pilot homes. We are currently working on developing an LLM-based energy retrofit decision-suooporting tool.
+- *2024.10*: The HomeZero team has completed energy retrofits for 11 pilot homes. We are currently working on developing an LLM-based energy retrofit decision-supporting tool.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HomeZero Team</div><img src='images/Vernon visit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2024.07*: The HomeZero team has completed energy retrofits for three houses, and one of them has achieved the net-zero energy use target!
