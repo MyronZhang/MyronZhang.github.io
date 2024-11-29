@@ -64,6 +64,7 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 - *2023.5*, A Data-Driven Approach To Predict Building Energy Performance For Identifying Optimal Energy Retrofit Scenarios, Moncton, Canada
 
 # 💬 Academic Service
+- Renewable and Sustainable Energy Reviews, Elsevier, Reviewer
 - Building and Environment, Elsevier, Reviewer
 - Journal of Building Engineering, Elsevier, Reviewer
 - Scientific Reports, Springer Nature, Reviewer
