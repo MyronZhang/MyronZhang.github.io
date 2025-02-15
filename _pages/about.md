@@ -64,7 +64,6 @@ Hi there! I am a PhD student studying at the School of Engineering, The Universi
 - *2023.5*, A Data-Driven Approach To Predict Building Energy Performance For Identifying Optimal Energy Retrofit Scenarios, Moncton, Canada
 
 # 💬 Academic Service
-Journals:
 - Renewable and Sustainable Energy Reviews, Elsevier, Reviewer
 - Building and Environment, Elsevier, Reviewer
 - Journal of Building Engineering, Elsevier, Reviewer
@@ -72,7 +71,6 @@ Journals:
 - Energy Informatics, Springer Nature, Reviewer
 - Discover Cities, Springer Nature, Reviewer
 - Journal of Infrastructure, Policy and Development, EnPress, Reviewer
-Conferences:
 - 2025 Building Simulation Conference, IPBSA, Brisbane, Australia, Reviewer
 - 42nd International Symposium on Automation and Robotics in Construction, Montreal, Canada, Reviewer 
 - 2025 ASCE International Conference on Computing in Civil Engineering, ASCE, New Orleans, United States, Reviewer
